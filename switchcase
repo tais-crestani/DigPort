@@ -1,0 +1,17 @@
+let turno = {
+    "m" : "matutino", 
+    "v" : "vespertino",
+    "n" : "noturno",
+};
+
+switch ("m") {
+    case "m":
+        console.log("Bom dia!")
+    break
+    case "v":
+        console.log("Boa tarde!")
+    break
+    case "n":
+        console.log("Boa noite!")
+    break
+}

@@ -1,0 +1,22 @@
+const Mariana = {
+    nome: "Mariana",
+    idade: 18,
+    estudante: true
+};
+
+const Carlos = {
+    nome: "Carlos",
+    idade: 24,
+    estudante: false,
+
+};
+
+const Maria = {
+    nome: "Maria",
+    idade: 26,
+    estudante: true
+};
+
+console.log(Mariana);
+console.log(Carlos);
+console.log(Maria);
